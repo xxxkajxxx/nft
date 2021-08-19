@@ -2,10 +2,10 @@
     "tokens": [
         {
             "id": 0,
-            "description": "My NFT",
+            "description": "This is a ripple coin from HODL",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 0"
+            "image": "https://webitsolutions.ph/coin.gif",
+            "name": "Ripple's Coin HODL"
         },
         {
             "id": 1,
